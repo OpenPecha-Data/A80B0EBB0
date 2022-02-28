@@ -1,0 +1,16 @@
+segment_sources:
+  P1C3F837F:
+    type: origin_type
+    relation: translation
+    language: en
+  P4A034246:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  239e79cfd57644da80ae6f69afed2c62:
+    P1C3F837F: 5a1b5e963d764d64811878562a48cf3f
+    P4A034246: b66ee37e2ea64cf988740aebfe49923b
+  e255a19743e940cf9b4f8c3e908a51a5:
+    P1C3F837F: 547433efa7b14db2984089194a771fb0
+    P4A034246: 8448fee43bec44689acb8f4e9f54b300
